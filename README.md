@@ -38,13 +38,6 @@ Here is a demonstration of the tool in action:
    - **R**: Reset all selections.
    - **ESC**: Exit the program.
 
-## File Descriptions
-- `demo_gif.gif`: A GIF demonstrating the functionality of the tool.
-- `selector.txt`: A text file containing information about the selected regions or settings.
-- `simple_editor_v06.py`: The main Python script for running the image selection tool.
-- `opencv_test.txt`: Log or notes related to OpenCV testing.
-- `README.md`: This file, which provides an overview of the project.
-
 ## Example Workflow
 1. Load an image from the `sample_imgs` folder.
 2. Use your mouse to mark regions you want to preserve (left-click) or remove (right-click).
