@@ -18,18 +18,14 @@ Here is a demonstration of the tool in action:
 ![Demo GIF](./demo_gif.gif)
 
 ## Usage
-1. **Installation**: Ensure you have Python and the necessary libraries installed. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. **Running the Tool**: You can run the main script using the command below. The program will open an interactive window where you can select regions and process them.
+1. **Running the Tool**: You can run the main script using the command below. The program will open an interactive window where you can select regions and process them.
    ```bash
    python simple_editor_v06.py
    ```
 
-3. **Image Selection**: The program comes with sample images in the `sample_imgs` folder. You can manually load images or let the program randomly pick one from the sample set.
+2. **Image Selection**: The program comes with sample images in the `sample_imgs` folder. You can manually load images or let the program randomly pick one from the sample set.
 
-4. **Controls**:
+3. **Controls**:
    - **Left-click**: Draw areas to preserve (blue).
    - **Right-click**: Mark areas for removal (red).
    - **Enter**: Apply the GrabCut algorithm to the selected region.
