@@ -1,6 +1,3 @@
-Here is a README file based on the information you've provided:
-
----
 
 # Image Selector Python Tool
 
@@ -62,5 +59,3 @@ Here is a demonstration of the tool in action:
 - Numpy
 
 Make sure to install all required libraries before running the tool.
-
----
